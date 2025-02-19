@@ -51,18 +51,21 @@
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opsstation&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=opsstation&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opsstation&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+## 🚀 GitHub Stats
+
+### 📊 GitHub Profile Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=therahul28&show_icons=true&theme=dark)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=therahul28&theme=dark)
+
+### 📌 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therahul28&layout=compact&theme=dark)
 
 ---
+
+
+
 
 ## 🔗 Let's Connect  
 <p align="center">
