@@ -62,10 +62,11 @@
 ### 📌 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therahul28&layout=compact&theme=dark&count_private=true)
 
-### 🏆 GitHub Trophies  
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=therahul28&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sohanyadav&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies">
 </p>
+
 
 ### 📈 Contribution Graph  
 <p align="center">
