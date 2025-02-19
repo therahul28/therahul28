@@ -1,55 +1,75 @@
-<h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Automation Lover</h3>
+<h1 align="center">🚀 Hi There, I'm Rahul Yadav 👋</h1>  
+<h3 align="center">DevOps Engineer | Cloud Enthusiast | Automation Geek</h3>  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4DF2E3&center=true&vCenter=true&width=435&lines=Automating+Cloud+Infra+Like+a+Boss!;DevOps+%7C+Cloud+%7C+CI%2FCD+%7C+Kubernetes;AWS+%7C+Terraform+%7C+Linux+%7C+Docker+%7C+Ansible" alt="Typing SVG" />
+</p>
 
 ---
 
-### 💻 About Me  
-- 🔹 Passionate about **Cloud, Automation, and CI/CD**  
-- 🔹 Love working with **AWS, Terraform, Kubernetes, Docker, and Linux**  
-- 🔹 Check out my projects: [GitHub Profile](https://github.com/opsstation)  
-- 🔹 💬 Ask me about **AWS, Terraform, Python, Kubernetes, Docker, Linux, Ansible, GCP, Azure**  
-- 📫 Reach me at **therahulyadav0077@gmail.com**  
+### 🌟 About Me  
+- 👨‍💻 All my projects are available at **[GitHub: OpsStation](https://github.com/opsstation)**
+- 🔥 Passionate about **AWS | Terraform | Python | Kubernetes | Docker | Linux | Ansible | GCP | Azure**
+- 💡 Always learning new tools and technologies to optimize cloud infrastructure  
+- 📫 Reach me at **[therahulyadav0077@gmail.com](mailto:therahulyadav0077@gmail.com)**
+- 🔗 Let's connect on **[LinkedIn](https://www.linkedin.com/in/rahul-yadav-239080221/)**  
 
 ---
 
-### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Yadav-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahul-yadav-239080221/)  
-[![GitHub](https://img.shields.io/badge/GitHub-opsstation-181717?style=flat&logo=github)](https://github.com/opsstation)
+## 🛠️ Technologies & Tools  
 
----
+### 🚀 Cloud & Infrastructure  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)  
 
-## 🔧 Technologies & Tools  
+### 🏗️ DevOps & CI/CD  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)  
 
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)  
-![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)  
-![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)  
+### 🐳 Containers & Orchestration  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)  
 
-### 🛠️ Infrastructure as Code  
-![Terraform](https://img.shields.io/badge/IaC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)  
-![Ansible](https://img.shields.io/badge/Automation-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)  
+### 📊 Monitoring & Logging  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)  
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic-stack&logoColor=white)  
 
-### 🏗️ Containers & Orchestration  
-![Docker](https://img.shields.io/badge/Containers-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)  
-![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)  
-
-### 🛠️ CI/CD & Monitoring  
-![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)  
-![CircleCI](https://img.shields.io/badge/CI/CD-CircleCI-informational?style=flat&logo=circleci&logoColor=white&color=2bbc8a)  
-![Grafana](https://img.shields.io/badge/Monitoring-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=2bbc8a)  
+### 📡 Networking & Security  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)  
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)  
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)  
 
 ### 💾 Databases  
-![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)  
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)  
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)  
-
-### 🔥 Other Tools & Technologies  
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)  
-![Nginx](https://img.shields.io/badge/Web_Server-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)  
-![Apache](https://img.shields.io/badge/Web_Server-Apache-informational?style=flat&logo=apache&logoColor=white&color=2bbc8a)  
-![Git](https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
 ---
 
-### 🚀 Let's Connect & Collaborate!  
-⭐ **Feel free to check out my GitHub & connect with me on LinkedIn!**  
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opsstation&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=opsstation&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opsstation&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🔗 Let's Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-yadav-239080221/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul_Yadav-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:therahulyadav0077@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-therahulyadav0077@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
