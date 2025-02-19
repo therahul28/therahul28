@@ -64,7 +64,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sohanyadav&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=therahul28&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies">
 </p>
 
 
