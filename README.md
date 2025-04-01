@@ -98,19 +98,6 @@
 
 ---
 
-## **🚀 Featured Projects**
-
-<div align="center">
-  <a href="[PROJECT-1-URL]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therahul28&repo=[REPO-1]&theme=radical" alt="Project 1">
-  </a>
-  <a href="[PROJECT-2-URL]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therahul28&repo=[REPO-2]&theme=radical" alt="Project 2">
-  </a>
-</div>
-
----
-
 ## **📬 Let's Connect!**
 
 <p align="center">
