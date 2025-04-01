@@ -10,6 +10,7 @@
 ## 🌟 About Me  
 - 👨‍💻 All my projects are available at **[GitHub: OpsStation](https://github.com/opsstation)**
 - 🔥 Passionate about **AWS | Terraform | Python | Kubernetes | Docker | Linux | Ansible | GCP | Azure**
+- 🏆 **AWS Certified Solutions Architect - Associate**
 - 💡 Always learning new tools and technologies to optimize cloud infrastructure  
 - 📫 Reach me at **[therahulyadav0077@gmail.com](mailto:therahulyadav0077@gmail.com)**
 - 🔗 Let's connect on **[LinkedIn](https://www.linkedin.com/in/rahul-yadav-239080221/)**  
@@ -18,28 +19,36 @@
 
 ## 🛠️ Technologies & Tools  
 
-### 🚀 Cloud & Infrastructure  
+### ☁️ Cloud & Infrastructure  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)  
 
-### 🏗️ DevOps & CI/CD  
+### 🔄 DevOps & CI/CD  
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)  
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)  
 
 ### 🐳 Containers & Orchestration  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)  
 
-### 📊 Monitoring & Logging  
+### 👀 Monitoring & Observability  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)  
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)  
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat&logo=newrelic&logoColor=white)  
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)  
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic-stack&logoColor=white)  
 
-### 📡 Networking & Security  
+### 🔒 Infrastructure as Code  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)  
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=flat&logo=pulumi&logoColor=white)  
+![Crossplane](https://img.shields.io/badge/Crossplane-FF6C2C?style=flat&logo=crossplane&logoColor=white)  
+
+### 🛡️ Networking & Security  
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)  
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)  
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)  
@@ -66,7 +75,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=therahul28&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies">
 </p>
-
 
 ### 📈 Contribution Graph  
 <p align="center">
