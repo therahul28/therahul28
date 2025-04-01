@@ -27,9 +27,8 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right" alt="DevOps GIF">
 </p>
 
-- 🔭 Currently automating **cloud infrastructure at scale**
-- 🌱 Mastering **Kubernetes operators and service meshes**
-- 💡 Passionate about **Infrastructure as Code and GitOps**
+- 🔭 Currently automating **cloud infrastructure at scale** 🌍
+- 🌱 Mastering **Kubernetes operators and service meshes** 💡
 - 🏆 **AWS Certified Solutions Architect - Associate**
 - ⚡ Fun fact: **I can deploy a 3-tier app faster than making coffee!**
 - 📫 Reach me: **[therahulyadav0077@gmail.com](mailto:therahulyadav0077@gmail.com)**
