@@ -4,15 +4,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=therahul28&label=Profile+Views&color=00F7FF&style=flat" alt="Profile Views" />
-  <a href="https://linkedin.com/in/rahul-yadav-239080221">
-    <img src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:therahulyadav0077@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20Me-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
-    <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS Certified" />
-  </a>
+  <a href="mailto:therahulyadav0077@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rahul-yadav-239080221"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat&logo=amazon-aws&logoColor=white"/></a>
 </p>
 
 <div align="center">
@@ -21,93 +15,75 @@
 
 ---
 
-## **🚀 About Me**
+## 🚀 About Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right" alt="DevOps GIF">
 </p>
 
-- 🔭 Currently automating **cloud infrastructure at scale** 🌍
-- 🌱 Mastering **Kubernetes operators and service meshes** 💡
-- 🏆 **AWS Certified Solutions Architect - Associate**
-- ⚡ Fun fact: **I can deploy a 3-tier app faster than making coffee!**
-- 📫 Reach me: **[therahulyadav0077@gmail.com](mailto:therahulyadav0077@gmail.com)**
+- 🔭 Automating **Cloud Infrastructure at Scale** 🌍  
+- 🌱 Learning advanced **Kubernetes Operators & Service Meshes**  
+- ☁️ **AWS Certified Solutions Architect – Associate**  
+- 📫 Reach me: **[therahulyadav0077@gmail.com](mailto:therahulyadav0077@gmail.com)**  
 
 ---
 
-## **🛠️ Tech Stack**
+## 🛠️ Tech Stack
 
-### **☁️ Cloud Platforms**
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+| **Cloud** ☁️ | **IaC** ⚡ |
+|--------------|------------|
+| AWS | Terraform |
+| Azure | Ansible |
+| GCP | Pulumi |
+
+| **Containers** 🐳 | **CI/CD** 🚀 |
+|-------------------|--------------|
+| Docker | Jenkins |
+| Kubernetes | GitHub Actions |
+| Helm | ArgoCD |
+
+| **Monitoring** 👀 | **Others** 🔧 |
+|------------------|---------------|
+| Prometheus | Linux |
+| Grafana | Git |
+| New Relic | Bash/Python |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=therahul28&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=therahul28&theme=tokyonight" />
 </p>
 
-### **⚡ Infrastructure as Code**
-<p>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
-  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi">
-</p>
-
-### **🐳 Containers & Orchestration**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm">
-</p>
-
-### **🚀 CI/CD & Automation**
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD">
-</p>
-
-### **👀 Monitoring & Observability**
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
-  <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therahul28&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="90%"/>
 </p>
 
 ---
 
-## **📊 GitHub Stats**
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=therahul28&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=therahul28&theme=radical" alt="GitHub Streak">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therahul28&theme=react-dark&bg_color=0D1117&hide_border=true" width="90%" alt="Activity Graph">
-</div>
-
----
-
-## **🏆 Certifications**
+## 🏆 Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/[YOUR-BADGE-ID]">
-    <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Certified Solutions Architect">
+    <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Certified Solutions Architect"/>
   </a>
+  <!-- Future certifications can be added here -->
 </p>
 
 ---
 
-## **📬 Let's Connect!**
+## 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/rahul-yadav-239080221">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:therahulyadav0077@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://linkedin.com/in/rahul-yadav-239080221"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:therahulyadav0077@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <div align="center">
+  <h3>Thanks for visiting my profile! 🚀</h3>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Thank You">
+  <br/><br/>
+  ⭐️ From [Rahul Yadav](https://github.com/therahul28)
 </div>
