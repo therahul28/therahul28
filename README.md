@@ -1,9 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=🚀+Rahul+Yadav+-+DevOps+Engineer;☁️+AWS+Certified+Solutions+Architect;⚡+Terraform+|+Kubernetes+|+Docker;🔥+CI/CD+|+Automation+|+Cloud+Infra" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=🚀+Rahul+Yadav+-+DevOps+Engineer;☁️+AWS+Certified+Solutions+Architect;⚡+Terraform+|+Kubernetes+|+Docker;🔥+CI/CD+|+Automation+|+Cloud+Infra" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=therahul28&label=Profile+Views&color=00F7FF&style=flat" alt="Profile Views" />
   <a href="mailto:therahulyadav0077@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/rahul-yadav-239080221"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat&logo=amazon-aws&logoColor=white"/></a>
@@ -72,6 +71,15 @@
 
 ---
 
+## 📌 Pinned Projects  
+
+<p align="center">
+  <a href="https://github.com/therahul28/terraform-infra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=therahul28&repo=terraform-infra&theme=tokyonight" /></a>
+  <a href="https://github.com/therahul28/k8s-deployments"><img src="https://github-readme-stats.vercel.app/api/pin/?username=therahul28&repo=k8s-deployments&theme=tokyonight" /></a>
+</p>
+
+---
+
 ## 🏆 Achievements  
 
 <p align="center">
@@ -86,6 +94,22 @@
   <a href="https://www.credly.com/badges/[YOUR-BADGE-ID]">
     <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Certified Solutions Architect"/>
   </a>
+</p>
+
+---
+
+## 💡 Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/therahul28/therahul28/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
