@@ -67,15 +67,6 @@
 
 ---
 
-## 📌 Pinned Projects  
-
-<p align="center">
-  <a href="https://github.com/therahul28/terraform-infra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=therahul28&repo=terraform-infra&theme=tokyonight" /></a>
-  <a href="https://github.com/therahul28/k8s-deployments"><img src="https://github-readme-stats.vercel.app/api/pin/?username=therahul28&repo=k8s-deployments&theme=tokyonight" /></a>
-</p>
-
----
-
 ## 🏆 Achievements  
 
 <p align="center">
