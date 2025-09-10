@@ -9,17 +9,9 @@
   <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat&logo=amazon-aws&logoColor=white"/></a>
 </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=therahul28&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
 ---
 
-## 🚀 About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right" alt="DevOps GIF">
-</p>
+## 🚀 About Me  
 
 - 🔭 Automating **Cloud Infrastructure at Scale** 🌍  
 - 🌱 Learning advanced **Kubernetes Operators & Service Meshes**  
@@ -28,29 +20,46 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-| **Cloud** ☁️ | **IaC** ⚡ |
-|--------------|------------|
-| AWS | Terraform |
-| Azure | Ansible |
-| GCP | Pulumi |
+<p align="center">
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</p>
 
-| **Containers** 🐳 | **CI/CD** 🚀 |
-|-------------------|--------------|
-| Docker | Jenkins |
-| Kubernetes | GitHub Actions |
-| Helm | ArgoCD |
+<p align="center">
+  <!-- IaC -->
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white"/>
+</p>
 
-| **Monitoring** 👀 | **Others** 🔧 |
-|------------------|---------------|
-| Prometheus | Linux |
-| Grafana | Git |
-| New Relic | Bash/Python |
+<p align="center">
+  <!-- Containers -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- CI/CD -->
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Monitoring -->
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=therahul28&show_icons=true&theme=tokyonight&count_private=true" />
@@ -63,18 +72,25 @@
 
 ---
 
-## 🏆 Certifications
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=therahul28&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🏅 Certifications  
 
 <p align="center">
   <a href="https://www.credly.com/badges/[YOUR-BADGE-ID]">
     <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" alt="AWS Certified Solutions Architect"/>
   </a>
-  <!-- Future certifications can be added here -->
 </p>
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Let's Connect  
 
 <p align="center">
   <a href="https://linkedin.com/in/rahul-yadav-239080221"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -82,8 +98,5 @@
 </p>
 
 <div align="center">
-  <h3>Thanks for visiting my profile! 🚀</h3>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Thank You">
-  <br/><br/>
-  ⭐️ From [Rahul Yadav](https://github.com/therahul28)
+  <h3>⭐️ Thanks for visiting my profile! 🚀</h3>
 </div>
