@@ -1,8 +1,6 @@
-# 🚀 Rahul Yadav
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=DevOps+Engineer+|+Cloud+Architect;AWS+Certified+Solutions+Architect;Terraform+|+Kubernetes+|+Docker;CI/CD+|+Automation+|+Cloud+Infra" alt="Typing Animation" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&height=80&lines=🚀+Rahul+Yadav+-+DevOps+Engineer;☁️+AWS+Certified+Solutions+Architect;⚡+Terraform+|+Kubernetes+|+Docker;🔥+CI/CD+|+Automation+|+Cloud+Infra" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="mailto:therahulyadav0077@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
@@ -12,27 +10,27 @@
 
 ---
 
-## 👨‍💻 About Me  
-- 🔭 Passionate about **automating cloud infrastructure** at scale  
+## 🚀 About Me  
+
+- 🔭 Automating **Cloud Infrastructure at Scale** 🌍  
 - 🌱 Exploring **Kubernetes Operators & Service Meshes**  
 - ☁️ **AWS Certified Solutions Architect – Associate**  
-- ⚡ Driving **DevOps transformation with automation**  
-- 📫 Reach me: [therahulyadav0077@gmail.com](mailto:therahulyadav0077@gmail.com)  
+- 📫 Reach me: **[therahulyadav0077@gmail.com](mailto:therahulyadav0077@gmail.com)**  
 
 ---
 
-## 🔧 Tech Stack  
+## 🛠️ Tech Stack  
 
 <p align="center">
   <!-- Cloud -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
 <p align="center">
   <!-- IaC -->
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white"/>
 </p>
@@ -60,20 +58,16 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=therahul28&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=therahul28&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therahul28&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="90%"/>
-</p>
-
 ---
 
-## 📌 Featured Projects  
+## 📌 Pinned Projects  
 
 <p align="center">
   <a href="https://github.com/therahul28/terraform-infra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=therahul28&repo=terraform-infra&theme=tokyonight" /></a>
@@ -82,11 +76,15 @@
 
 ---
 
-## 🏆 Achievements & Certifications  
+## 🏆 Achievements  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=therahul28&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" />
 </p>
+
+---
+
+## 🏅 Certifications  
 
 <p align="center">
   <a href="https://www.credly.com/badges/[YOUR-BADGE-ID]">
@@ -96,23 +94,7 @@
 
 ---
 
-## 💡 Inspiration  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/therahul28/therahul28/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 📬 Let’s Connect  
+## 📬 Let's Connect  
 
 <p align="center">
   <a href="https://linkedin.com/in/rahul-yadav-239080221"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -120,5 +102,5 @@
 </p>
 
 <div align="center">
-  <h3>⭐ Thanks for visiting my profile 🚀</h3>
+  <h3>⭐ Thanks for visiting my profile! 🚀</h3>
 </div>
