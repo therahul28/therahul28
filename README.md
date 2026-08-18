@@ -7,7 +7,7 @@
   <!-- Animated Waving Hand & Typing SVG -->
   <h3>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Wave GIF">, I'm Rahul Yadav</h3>
 
-  <a href="https://github.com/therahul28">
+  <a href="https://github.com/rahulyadav2819">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=680&lines=🚀+DevOps+%26+Cloud+Infrastructure+Engineer+(4%2B+Years+Exp);☁️+AWS+Certified+Solutions+Architect+-+Associate;⚡+3%2B+Zero-Downtime+Cross-Cloud+Migrations+(Hetzner+→+GCP+→+AWS);🐳+Kubernetes+(EKS+|+GKE+|+AKS)+%26+Terraform+IaC+Expert;📊+SRE+|+Grafana+|+Prometheus+|+ELK+Stack+Observability" alt="Animated Typing SVG" />
   </a>
 
